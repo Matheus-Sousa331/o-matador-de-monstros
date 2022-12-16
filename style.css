@@ -78,26 +78,31 @@ html {
 .new-game {
     background-color: #4253af;
     color: #fff;
+    border: none;
 }
 
 .attack {
     background-color: #e51c23;
     color: #fff;
+    border: none;
 }
 
 .especial-attack {
     background-color: #ff9800;
     color: #000;
+    border: none;
 }
 
 .heal {
     background-color: #259b24;
     color: #FFF;
+    border: none;
 }
 
 .give-up {
     background-color: #BBB;
     color: #000;
+    border: none;
 }
 
 .logs ul {
